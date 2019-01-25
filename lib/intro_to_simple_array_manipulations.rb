@@ -36,3 +36,4 @@ end
 
 def using_flatten(array, s)
 end
+
